@@ -1,0 +1,33 @@
+
+
+html body {
+	vertical-align: middle;
+	margin:auto;
+	padding:inherit;
+	color: black; 
+	font-family: "Harlow Solid Italic";
+	font-weight:300 ;
+	font-size: 36;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	vertical-align:middle;
+	color: black; 
+	font-weight:300 ; 
+}
+
+header, section {
+	vertical-align: central;
+	max-width:inherit;
+	margin: 0 auto;
+}
+
+ul li {
+	vertical-align:central;
+	display: inline-block;
+	padding: 5px;
+}
+nav a {
+	text-decoration:none;
+	color:black ; 
+}
